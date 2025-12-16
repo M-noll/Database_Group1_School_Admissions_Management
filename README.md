@@ -57,7 +57,7 @@ The ERD illustrates:
 
 
 <p align="center">
-  <img src="admission_erd.png" alt="Entity Relationship Diagram" width="800"/>
+  <img src="school_admissions_database/admission_erd.png" alt="Entity Relationship Diagram" width="800"/>
 </p>
 
 
